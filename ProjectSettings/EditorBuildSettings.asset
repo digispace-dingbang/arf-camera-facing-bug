@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 4755b35b590504809a7525fd2109c2e2
+    path: Assets/Samples/Camera-facing-bug/Scenes/menu.unity
+    guid: fdcf5532e9ee77a4d829895bccadb555
+  - enabled: 1
+    path: Assets/Samples/Camera-facing-bug/Scenes/face.unity
+    guid: 17964295580700e459d91410fae5ec1b
+  - enabled: 1
+    path: Assets/Samples/Camera-facing-bug/Scenes/image.unity
+    guid: 83871d8e362cc4148ad3da01db074eef
+  - enabled: 1
+    path: Assets/Samples/Camera-facing-bug/Scenes/plane.unity
+    guid: 67c0cec50e946e84398771aa7572f77b
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
